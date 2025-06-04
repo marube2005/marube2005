@@ -49,12 +49,15 @@ Inventory Management System | Next.js, PythonA web app (in progress) for trackin
 
 
 📊 GitHub Stats
+
 ![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marube2005&show_icons=true&theme=radical)
 
 🏆 Achievements
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marube2005&layout=compact&theme=radical)
 
 Trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=marube2005&theme=onedark)
 
 
