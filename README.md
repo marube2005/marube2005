@@ -23,7 +23,7 @@ Dart, JavaScript, HTML5, CSS3
 
 
 Frameworks
-Flutter, React, Next.js
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 
 Backend & DB
