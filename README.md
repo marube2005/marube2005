@@ -44,7 +44,7 @@ UI/UX Design, RESTful APIs, Agile, Data Visualization
 
 📊 GitHub Stats
 
-![Elvis's GitHub Stats] (https://github-readme-stats-marube2005.vercel.app/api?username=marube2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Elvis's GitHub Stats](https://github-readme-stats-marube2005.vercel.app/api?username=marube2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## 📈 Contribution Streaks
 
@@ -53,7 +53,7 @@ UI/UX Design, RESTful APIs, Agile, Data Visualization
 
 🏆 Achievements
 
-![Top Languages] (https://github-readme-stats-marube2005.vercel.app/api/top-langs/?username=marube2005&count_private=true)
+![Top Languages](https://github-readme-stats-marube2005.vercel.app/api/top-langs/?username=marube2005&count_private=true)
 
 Trophies
 
