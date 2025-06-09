@@ -57,7 +57,7 @@ UI/UX Design, RESTful APIs, Agile, Data Visualization
 
 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=marube2005&theme=onedark)
+
 
 
 🎓 Education & Certifications
