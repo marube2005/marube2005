@@ -1,79 +1,122 @@
-👋 Hi, I'm Elvis Marube!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Mobile+%26+Web+Enthusiast;AI+Builder;Turning+Ideas+into+Products" alt="Typing SVG" />
+</p>
 
-I'm an aspiring Software Developer from Nairobi, Kenya, passionate about crafting user-centric mobile and web applications. With hands-on experience in Flutter, React, Next.js, and Firebase, I love building solutions that boost productivity and engagement. Recently, I completed an internship at Future Interns, where I honed my skills in agile development and collaborative projects. Excited to create innovative apps and contribute to open source!
-🌟 About Me
+<h1 align="center">Hi, I'm Elvis Marube 👋</h1>
 
-🎓 Studying BSc in Computer Science at Egerton University (Expected: May 2027)
-💼 Former Software Developer Intern at Future Interns (Mar-Apr 2025)
-🌍 Based in Nairobi, Kenya
-🔭 Working on TaskMaster, a productivity app with AI-powered features
-🌱 Learning AI integration and advanced UI/UX design
+<p align="center">
+  <b>Computer Science Student | Building scalable, user-focused applications</b><br>
+  <i>Based in Nairobi, Kenya • Passionate about productivity tools, AI-powered experiences, and modern mobile/web solutions</i>
+</p>
 
-🛠️ Skills
+---
 
+## 🚀 About Me
 
-Category
-Technologies & Competencies
+- 🎓 **BSc Computer Science** — Egerton University (Expected Graduation: May 2027)
+- 💼 **Software Developer Intern** — Future Interns (March – April 2025)
+- 🌍 Based in Nairobi, Kenya
+- 🔭 Currently building **TaskMaster** — an AI-enhanced productivity application
+- 🌱 Exploring **AI integration**, **system design**, and **advanced UI/UX**
 
+---
 
+## 🛠️ Tech Stack
 
-Languages
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
+### Backend & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+</p>
 
+### Tools & Platforms
+Git • GitHub • Figma • VS Code • Android Studio
 
-Frameworks
+**Other Skills**: UI/UX Design • RESTful APIs • Agile Development • Data Visualization
 
- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)[Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+---
 
+## 📊 GitHub Analytics
 
-Backend & DB
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marube2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marube2005&theme=radical" alt="Streak Stats" />
+</p>
 
-Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marube2005&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) |
+---
 
+## 🏆 Highlights
 
-Other
-UI/UX Design, RESTful APIs, Agile, Data Visualization
+- Built multiple **mobile and web applications** focused on productivity and user experience
+- Hands-on experience working in **agile teams** during professional internship
+- Strong emphasis on **clean architecture**, intuitive UI/UX, and user-centered design
 
+---
 
+## 🎓 Education
 
-📊 GitHub Stats
+**BSc Computer Science**  
+Egerton University, Kenya  
+*Expected Graduation: May 2027*
 
-![Elvis's GitHub Stats](https://github-readme-stats-marube2005.vercel.app/api?username=marube2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+---
 
-## 📈 Contribution Streaks
+## 📫 Let's Connect
 
+<p align="center">
+  <a href="https://github.com/marube2005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/elvis-marube-499bbb299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:emarube89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=marube2005&theme=radical)
+---
 
-🏆 Achievements
+**Fun Fact**: Designed a full Figma prototype overnight and won a university hackathon challenge 🚀
 
-![Top Languages](https://github-readme-stats-marube2005.vercel.app/api/top-langs/?username=marube2005&count_private=true)
+---
 
-Trophies
+This version keeps the **visual appeal** you liked (centered typing SVG, shields for tech stack, centered stats, clean sections) but feels **more professional**, less cluttered, and better structured.
 
+### Quick Tips:
+- Replace the GitHub stats URLs if you have a custom Vercel deployment (like in your example).
+- The typing SVG is fully customizable — just change the `lines=` part.
+- Shields.io badges look clean and modern.
 
+Would you like me to adjust anything? For example:
+- Make it **more minimal** (fewer emojis/shields)
+- Add a **projects showcase** table like in the example you shared
+- Change the typing text or colors
+- Make it bolder / more "developer-brand" style
 
-
-🎓 Education & Certifications
-
-BSc in Computer Science | Egerton University, Njoro, Kenya (Expected: May 2027)
-
-
-
-
-
-## 📫 Connect with Me
-- [GitHub](https://github.com/marube2005) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- [LinkedIn](https://linkedin.com/in/elvis-marube-499bbb299) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)
-- [Email](mailto:emarube89@gmail.com) ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)
-
-🎉 Fun Fact
-I once designed a Figma prototype in a single night to win a university hackathon challenge! 🚀
-
-Last updated: June 2025
+Just tell me the exact vibe you're going for and I'll refine it further!
