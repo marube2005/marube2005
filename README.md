@@ -1,56 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Mobile+%26+Web+Enthusiast;AI+Builder;Turning+Ideas+into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Hands-on+Builder;Full-Stack+Developer;Mobile+%26+Web+Systems;Product-Oriented+Engineer;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Elvis Marube 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student | Building scalable, user-focused applications</b><br>
-  <i>Based in Nairobi, Kenya • Passionate about productivity tools, AI-powered experiences, and modern mobile/web solutions</i>
+  <b>Computer Science Student & Builder based in Nairobi, Kenya</b><br>
+  <i>I don't just code — I build usable, production-minded applications that solve real problems. From full mobile apps with Firebase to backend systems with real integrations (M-Pesa, email, etc.).</i>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
+
+I'm a practical developer who thrives on turning ideas into working products. Whether it's a productivity app with AI features or a campus platform that actually gets used, I focus on **what works in the real world** — clean implementation, solid architecture, and thoughtful user experience.
 
 - 🎓 **BSc Computer Science** — Egerton University (Expected Graduation: May 2027)
 - 💼 **Software Developer Intern** — Future Interns (March – April 2025)
-- 🌍 Based in Nairobi, Kenya
-- 🔭 Currently building **TaskMaster** — an AI-enhanced productivity application
-- 🌱 Exploring **AI integration**, **system design**, and **advanced UI/UX**
+- 🌍 Nairobi, Kenya
+- 🔭 Currently building **TaskMaster** — AI-powered productivity app for students and teams
+- 🌱 Actively working on backend architecture, real-world integrations, debugging production-like setups, and elevating my systems design skills
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
+### Core Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### Backend & Databases
+### Backend & Integrations
 <p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Tools & Platforms
-Git • GitHub • Figma • VS Code • Android Studio
+### Tools & Design
+Figma • Git • VS Code • Android Studio • RESTful APIs • UI/UX Design
 
-**Other Skills**: UI/UX Design • RESTful APIs • Agile Development • Data Visualization
+**Currently sharpening**: Scalable backend architecture, M-Pesa & third-party integrations, debugging complex environments, and production-ready systems.
 
 ---
 
@@ -70,11 +64,12 @@ Git • GitHub • Figma • VS Code • Android Studio
 
 ---
 
-## 🏆 Highlights
+## 🏆 What I'm Building
 
-- Built multiple **mobile and web applications** focused on productivity and user experience
-- Hands-on experience working in **agile teams** during professional internship
-- Strong emphasis on **clean architecture**, intuitive UI/UX, and user-centered design
+- **Product-focused applications** — Especially productivity tools and student platforms
+- Full-stack mobile & web solutions (Flutter + Firebase, React/Next.js)
+- Backend systems with real integrations (payments, notifications, databases)
+- Clean UI/UX combined with solid architecture — I care about both how it looks and how it works under the hood
 
 ---
 
@@ -102,6 +97,6 @@ Egerton University, Kenya
 
 ---
 
-**Fun Fact**: Designed a full Figma prototype overnight and won a university hackathon challenge 🚀
+**Fun Fact**: I once designed a complete Figma prototype overnight and won a university hackathon with it 🚀
 
 ---
