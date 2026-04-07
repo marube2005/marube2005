@@ -105,18 +105,3 @@ Egerton University, Kenya
 **Fun Fact**: Designed a full Figma prototype overnight and won a university hackathon challenge 🚀
 
 ---
-
-This version keeps the **visual appeal** you liked (centered typing SVG, shields for tech stack, centered stats, clean sections) but feels **more professional**, less cluttered, and better structured.
-
-### Quick Tips:
-- Replace the GitHub stats URLs if you have a custom Vercel deployment (like in your example).
-- The typing SVG is fully customizable — just change the `lines=` part.
-- Shields.io badges look clean and modern.
-
-Would you like me to adjust anything? For example:
-- Make it **more minimal** (fewer emojis/shields)
-- Add a **projects showcase** table like in the example you shared
-- Change the typing text or colors
-- Make it bolder / more "developer-brand" style
-
-Just tell me the exact vibe you're going for and I'll refine it further!
