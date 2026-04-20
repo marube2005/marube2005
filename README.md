@@ -1,102 +1,117 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Hands-on+Builder;Full-Stack+Developer;Mobile+%26+Web+Systems;Product-Oriented+Engineer;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&center=true&vCenter=true&width=800&lines=Elvis+Marube;Hands-on+Builder;Full-Stack+Developer;Mobile+%26+Web+Systems;Product-Oriented+Engineer;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Elvis Marube 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marube2005&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/marube2005?label=Followers&style=for-the-badge&color=0A66C2" />
+</p>
 
 <p align="center">
-  <b>Computer Science Student & Builder based in Nairobi, Kenya</b><br>
-  <i>I don't just code — I build usable, production-minded applications that solve real problems. From full mobile apps with Firebase to backend systems with real integrations (M-Pesa, email, etc.).</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&text=ELVIS%20MARUBE&fontSize=40&fontColor=ffffff"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## SYSTEM PROFILE
+Name: Elvis Marube
+Role: Full-Stack Developer | Mobile & Web Builder | Product-Oriented Engineer
+Focus: Practical Systems, Real Integrations, AI-Powered Productivity Tools
+Location: Nairobi, Kenya
+Portfolio: https://my-portfolio-ruby-six-42.vercel.app/
 
-I'm a practical developer who thrives on turning ideas into working products. Whether it's a productivity app with AI features or a campus platform that actually gets used, I focus on **what works in the real world** — clean implementation, solid architecture, and thoughtful user experience.
+
+## ABOUT
+Computer Science student and hands-on builder who turns real-world problems into production-ready applications. I don’t just code — I ship usable products with clean architecture, thoughtful UX, and reliable integrations.
 
 - 🎓 **BSc Computer Science** — Egerton University (Expected Graduation: May 2027)
 - 💼 **Software Developer Intern** — Future Interns (March – April 2025)
-- 🌍 Nairobi, Kenya
-- 🔭 Currently building **TaskMaster** — AI-powered productivity app for students and teams
-- 🌱 Actively working on backend architecture, real-world integrations, debugging production-like setups, and elevating my systems design skills
+- 🌍 Based in Nairobi, Kenya
+- 🔭 Currently building **TaskMaster** — AI-powered productivity platform for students and teams
 
 ---
 
-## ⚙️ Tech Stack
-
-### Core Languages & Frameworks
+## CORE DOMAINS
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full-Stack_Development-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile_Apps-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend_Systems-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real_Integrations-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Productivity_Tools-0A66C2?style=for-the-badge"/>
 </p>
-
-### Backend & Integrations
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Tools & Design
-Figma • Git • VS Code • Android Studio • RESTful APIs • UI/UX Design
-
-**Currently sharpening**: Scalable backend architecture, M-Pesa & third-party integrations, debugging complex environments, and production-ready systems.
 
 ---
 
-## 📊 GitHub Analytics
+## TECH STACK
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,fastapi,nodejs,firebase,postgresql,figma,git,github,vscode,androidstudio" />
+</p>
 
+---
+
+## ENGINEERING CAPABILITIES
+- Full mobile & web application development (Flutter + Firebase)
+- Backend architecture & API development (FastAPI, Node.js, SQLAlchemy)
+- Real-world integrations (M-Pesa payments, email systems, third-party services)
+- Scalable database design and optimization (PostgreSQL, Firebase)
+- Clean UI/UX implementation with Figma prototypes and production code
+- Debugging complex environments and production-like setups
+
+---
+
+## GITHUB ANALYTICS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marube2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marube2005&theme=radical" alt="Streak Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marube2005&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marube2005&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🏆 What I'm Building
-
-- **Product-focused applications** — Especially productivity tools and student platforms
-- Full-stack mobile & web solutions (Flutter + Firebase, React/Next.js)
-- Backend systems with real integrations (payments, notifications, databases)
-- Clean UI/UX combined with solid architecture — I care about both how it looks and how it works under the hood
-
----
-
-## 🎓 Education
-
-**BSc Computer Science**  
-Egerton University, Kenya  
-*Expected Graduation: May 2027*
+## CURRENT OBJECTIVES
+- Build production-grade, scalable backend systems
+- Master advanced integrations and real-time features
+- Elevate system design and architecture skills
+- Ship polished, user-focused products that solve actual problems
 
 ---
 
-## 📫 Let's Connect
+## LANGUAGES
+- English — Professional  
+- Kiswahili — Native
 
+---
+
+## CONTACT
 <p align="center">
-  <a href="https://github.com/marube2005">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/marube2005">✅ **Copy everything above** and paste it directly into your `README.md` file.  
+This is the complete, final version — clean, professional, and better than the example you showed. It matches your real skills, includes your portfolio, and has that premium look you wanted.  
+
+Just replace it and push — it will look 🔥 on your GitHub profile!
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/elvis-marube-499bbb299">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:emarube89@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://my-portfolio-ruby-six-42.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-**Fun Fact**: I once designed a complete Figma prototype overnight and won a university hackathon with it 🚀
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+</p>
+```
