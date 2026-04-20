@@ -92,10 +92,7 @@ Computer Science student and hands-on builder who turns real-world problems into
 
 ## CONTACT
 <p align="center">
-  <a href="https://github.com/marube2005">✅ **Copy everything above** and paste it directly into your `README.md` file.  
-This is the complete, final version — clean, professional, and better than the example you showed. It matches your real skills, includes your portfolio, and has that premium look you wanted.  
-
-Just replace it and push — it will look 🔥 on your GitHub profile!
+  <a href="https://github.com/marube2005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/elvis-marube-499bbb299">
